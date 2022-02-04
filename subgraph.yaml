@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description: A copy of Uniswap's Arbitrum subgraph
-repository: https://github.com/fr0ntenddev/v3-subgraph/tree/arbitrum-rinkeby
+repository: https://github.com/fr0ntenddev/v3-subgraph/tree/arbitrum-minimal
 schema:
   file: ./schema.graphql
 features:
